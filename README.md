@@ -29,9 +29,15 @@ A secure password management application that allows users to store, manage, and
 
 ## Project Structure
 passOP/
-│
-├── Backend/
-├── public/
-├── src/
-├── package.json
-└── README.md
+    Backend/
+    public/
+    src/
+    package.json
+    README.md
+
+##Future Improvements
+-User Authentication
+-Password Encryption
+-Password Generator
+-Dark Mode
+-Cloud Backup
