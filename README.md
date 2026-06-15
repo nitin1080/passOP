@@ -28,3 +28,10 @@ A secure password management application that allows users to store, manage, and
 - MongoDB
 
 ## Project Structure
+passOP/
+│
+├── Backend/
+├── public/
+├── src/
+├── package.json
+└── README.md
