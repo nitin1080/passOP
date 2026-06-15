@@ -35,7 +35,7 @@ passOP/
     package.json
     README.md
 
-##Future Improvements
+## Future Improvements
 -User Authentication
 -Password Encryption
 -Password Generator
